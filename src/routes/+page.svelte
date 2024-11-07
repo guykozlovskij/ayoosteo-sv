@@ -2,9 +2,10 @@
 <p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
 
 <style lang="scss">
-  @use "../styles/colours";
+  @use "../styles/base";
 
   h1{
-    color: colours.$var;
+    color: base.$ayoosteoblue;
   }
+
 </style>
