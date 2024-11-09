@@ -3,10 +3,10 @@
 </script>
 
 <nav>
-  <a href="/index.html">
+  <a href="/">
     <img id="ayoosteo-logo" src={logo} alt="ayo osteo logo">
   </a>
-  <a href="/index.html">
+  <a href="/">
     <div id="ayoosteo-alt">
       <span id="ayoosteo-alt-1">A</span>
       <span id="ayoosteo-alt-2">O</span>
@@ -14,9 +14,9 @@
   </a>
   <ul>
     <li><a href="/">Home</a></li>
-    <li><a href="/src/pages/about.html">About Me</a></li>
-    <li><a href="/src/pages/services.html">Services</a></li>
-    <li><a href="/src/pages/blog.html">Blog</a></li>
+    <li><a href="/about">About Me</a></li>
+    <li><a href="/services">Services</a></li>
+    <li><a href="/blog">Blog</a></li>
   </ul>
   <div id="hamburger-menu">
     <input id="menu__toggle" type="checkbox" />
@@ -25,9 +25,9 @@
     </label>
     <ul class="menu__box">
       <li><a class="menu__item" href="/">Home</a></li>
-      <li><a class="menu__item" href="/src/pages/about.html">About Me</a></li>
-      <li><a class="menu__item" href="/src/pages/services.html">Services</a></li>
-      <li><a class="menu__item" href="/src/pages/blog.html">Blog</a></li>
+      <li><a class="menu__item" href="/about">About Me</a></li>
+      <li><a class="menu__item" href="/services">Services</a></li>
+      <li><a class="menu__item" href="/blog">Blog</a></li>
     </ul>
   </div>
 </nav>
@@ -36,6 +36,7 @@
   @use "../../styles/base";
 
   nav {
+    z-index: 2;
     a {
       text-decoration: none;
     }
