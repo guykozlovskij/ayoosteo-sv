@@ -13,10 +13,6 @@ $paragraph: 650px;
 $line-height: 25px;
 $article-line-height: 30px;
 
-.italic {
-  font-style: italic;
-}
-
 //* Dimensions
 $padding-left: 20px;
 $padding-right: 20px;
@@ -27,9 +23,27 @@ $padding-top: 30px;
 $button-font-size: 17px;
 $button-padding: 15px;
 
+.italic {
+  font-style: italic;
+}
+
+.temp-holder {
+  padding-top: 200px;
+  font-size: 200;
+  text-align: center;
+}
+
+.solid {
+  border-top: 3px solid #bbb;
+  text-align: center;
+  padding-left: 25px;
+  padding-right: 25px;
+  width: 80%;
+  margin-bottom: 25px;
+}
+
 .button-green {
   font-size: $button-font-size;
-  // display: inline-block; // LOOK HERE
   color: white;
   background-color: $ayoosteogreen;
   padding: 15px;
@@ -78,5 +92,21 @@ $button-padding: 15px;
   }
   i {
     color: $ayoosteogreen;
+  }
+}
+
+#memberships {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  padding-bottom: 100px;
+  img {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 220px;
+  }
+  #io-membership {
+    width: 150px;
   }
 }

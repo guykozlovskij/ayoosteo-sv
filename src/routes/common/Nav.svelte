@@ -13,7 +13,7 @@
     </div>
   </a>
   <ul>
-    <li><a href="/index.html">Home</a></li>
+    <li><a href="/">Home</a></li>
     <li><a href="/src/pages/about.html">About Me</a></li>
     <li><a href="/src/pages/services.html">Services</a></li>
     <li><a href="/src/pages/blog.html">Blog</a></li>
@@ -24,7 +24,7 @@
       <span></span>
     </label>
     <ul class="menu__box">
-      <li><a class="menu__item" href="/index.html">Home</a></li>
+      <li><a class="menu__item" href="/">Home</a></li>
       <li><a class="menu__item" href="/src/pages/about.html">About Me</a></li>
       <li><a class="menu__item" href="/src/pages/services.html">Services</a></li>
       <li><a class="menu__item" href="/src/pages/blog.html">Blog</a></li>
