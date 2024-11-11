@@ -1,32 +1,44 @@
 <script>
-  import new2 from "../../lib/images/misc/new2.png"
-  import goc from "../../lib/images/certification/AyoO9396.jpg"
-  import ioMembership from "../../lib/images/certification/iO-Member-logo-Digital.jpg"
+  import new2 from "../../lib/images/misc/new2.png";
+  import goc from "../../lib/images/certification/AyoO9396.jpg";
+  import ioMembership from "../../lib/images/certification/iO-Member-logo-Digital.jpg";
 </script>
 
 <section id="about-page">
   <div id="about-profile-image">
-    <img src={new2} alt= "ayo profile">
+    <img src={new2} alt="ayo profile" />
     <h2>M.Ost, DO, ND</h2>
   </div>
   <section id="about-section">
     <h1>About Me</h1>
     <h2>AYO KOZLOVSKIJ</h2>
-    <p>I graduated from the British College of Osteopathic Medicine with a Masters in Osteopathy and a Diploma in
-      Naturopathy.</p>
-    <p>As an osteopath, I take a patient centred approach in working together with you to help you recover from pain
-      or
-      injury, achieve optimal health and altogether have an improved quality of life. I often combine osteopathic
-      techniques with advice on exercises, ergonomics, dietary changes, wellness strategies and along the way helping
-      you to understand the problem and how to prevent it from recurring.</p>
-    <p>I have experience of working with a wide spectrum of patients, as young as newborns, adolescents, adults and
-      geriatric patients.</p>
-    <p> Additionally, I hold qualifications in Medical Acupuncture, having received training from the British Medical
-      Acupuncture Society.
-      I have also worked as an osteopathic technique tutor and a practice educator at The British College of
-      Osteopathic Medicine and at the University College of Osteopathy in London. </p>
-    <p>Outside of work I enjoy defeating my husband at badminton and indulging in activities such as yoga and body
-      weight exercises.</p>
+    <p>
+      I graduated from the British College of Osteopathic Medicine with a
+      Masters in Osteopathy and a Diploma in Naturopathy.
+    </p>
+    <p>
+      As an osteopath, I take a patient centred approach in working together
+      with you to help you recover from pain or injury, achieve optimal health
+      and altogether have an improved quality of life. I often combine
+      osteopathic techniques with advice on exercises, ergonomics, dietary
+      changes, wellness strategies and along the way helping you to understand
+      the problem and how to prevent it from recurring.
+    </p>
+    <p>
+      I have experience of working with a wide spectrum of patients, as young as
+      newborns, adolescents, adults and geriatric patients.
+    </p>
+    <p>
+      Additionally, I hold qualifications in Medical Acupuncture, having
+      received training from the British Medical Acupuncture Society. I have
+      also worked as an osteopathic technique tutor and a practice educator at
+      The British College of Osteopathic Medicine and at the University College
+      of Osteopathy in London.
+    </p>
+    <p>
+      Outside of work I enjoy defeating my husband at badminton and indulging in
+      activities such as yoga and body weight exercises.
+    </p>
   </section>
 </section>
 
@@ -34,15 +46,29 @@
   <div>
     <div id="certification-text">
       <h2>Certification</h2>
-      <p>By law it is essential that I am registered with the General Osteopathic Council. This is to protect you as
-        the
-        patient. It is also essential that I have professional indemnity insurance.</p>
+      <p>
+        By law it is essential that I am registered with the General Osteopathic
+        Council. This is to protect you as the patient. It is also essential
+        that I have professional indemnity insurance.
+      </p>
       <span>I am a registered member of:</span>
     </div>
     <ul>
-      <li>General Osteopathic Council – Membership number <span class="membership-number">9396</span></li>
-      <li>Institute of Osteopathy – Membership number <span class="membership-number">107031</span></li>
-      <li>British Medical Acupuncture Society – Membership number <span class="membership-number">37243</span></li>
+      <li>
+        General Osteopathic Council – Membership number <span
+          class="membership-number">9396</span
+        >
+      </li>
+      <li>
+        Institute of Osteopathy – Membership number <span
+          class="membership-number">107031</span
+        >
+      </li>
+      <li>
+        British Medical Acupuncture Society – Membership number <span
+          class="membership-number">37243</span
+        >
+      </li>
     </ul>
   </div>
 </section>
@@ -52,19 +78,18 @@
   <img id="io-membership" src={ioMembership} alt="IO membership logo />" />
 </div>
 
-
 <style lang="scss">
   @use "../../styles/base";
 
   #about-page {
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
-  flex-wrap: wrap;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 50px;
     #about-section {
       padding-left: base.$padding-left;
       padding-right: base.$padding-right;
@@ -91,7 +116,7 @@
         text-align: start;
       }
     }
-  } 
+  }
 
   #about-profile-image {
     max-width: 400px;
