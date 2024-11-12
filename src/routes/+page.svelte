@@ -28,7 +28,7 @@
 <section id="home-scroll-section">
   <h2>What does an osteopath treat?</h2>
   <div class="button-green-div">
-    <a class="button-green" href="/src/pages/services.html">View List</a>
+    <a class="button-green" href="/services">View List</a>
   </div>
 </section>
 
@@ -72,6 +72,10 @@
 
 <style lang="scss">
   @use "../styles/base";
+
+  html {
+    scroll-behavior: smooth;
+  }
 
   #home-intro-section {
     padding-bottom: 100px;

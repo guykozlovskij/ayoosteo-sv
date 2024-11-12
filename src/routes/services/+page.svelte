@@ -8,16 +8,16 @@
     <div id="service-list">
       <ul>
         <li>
-          <a href="/src/pages/services/osteopathy.html">Osteopathy</a>
+          <a href="/services/osteopathy">Osteopathy</a>
         </li>
         <li>
-          <a href="/src/pages/services/acupuncture.html">Medical Acupuncture</a>
+          <a href="/services/acupuncture">Medical Acupuncture</a>
         </li>
         <li>
-          <a href="/src/pages/services/dse.html">DSE Workstation Assessment</a>
+          <a href="/services/dse">DSE Workstation Assessment</a>
         </li>
         <li>
-          <a href="/src/pages/services/clinic-visit.html">Clinic Visit</a>
+          <a href="/services/clinic-visit">Clinic Visit</a>
         </li>
       </ul>
     </div>
