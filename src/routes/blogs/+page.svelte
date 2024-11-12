@@ -9,7 +9,7 @@
       or going to the gym twice a week? Whatever it is, start now...
     </p>
     <p>
-      <a href="/src/pages/blogs/blog9.html" class="blog-continue"
+      <a href="/blogs/blog9" class="blog-continue"
         >Continue Reading</a
       >
     </p>
@@ -26,7 +26,7 @@
       for chronic pain Muscle ache and stiffness Good for...
     </p>
     <p>
-      <a href="/src/pages/blogs/blog8.html" class="blog-continue"
+      <a href="/blogs/blog8" class="blog-continue"
         >Continue Reading</a
       >
     </p>
@@ -43,7 +43,7 @@
       my...
     </p>
     <p>
-      <a href="/src/pages/blogs/blog7.html" class="blog-continue"
+      <a href="/blogs/blog7" class="blog-continue"
         >Continue Reading</a
       >
     </p>
@@ -63,7 +63,7 @@
       treatment is tailored to the individual not the symptom(s).
     </p>
     <p>
-      <a href="/src/pages/blogs/blog6.html" class="blog-continue"
+      <a href="/blogs/blog6" class="blog-continue"
         >Continue Reading</a
       >
     </p>
@@ -80,7 +80,7 @@
       is called a cavitation.The result of the noise is quite similar to the...
     </p>
     <p>
-      <a href="/src/pages/blogs/blog5.html" class="blog-continue"
+      <a href="/blogs/blog5" class="blog-continue"
         >Continue Reading</a
       >
     </p>
@@ -99,7 +99,7 @@
       practice closer to the chiropractic way and some...
     </p>
     <p>
-      <a href="/src/pages/blogs/blog4.html" class="blog-continue"
+      <a href="/blogs/blog4" class="blog-continue"
         >Continue Reading</a
       >
     </p>
@@ -116,7 +116,7 @@
       for example tension headaches. Your first appointment...
     </p>
     <p>
-      <a href="/src/pages/blogs/blog3.html" class="blog-continue"
+      <a href="/blogs/blog3.html" class="blog-continue"
         >Continue Reading</a
       >
     </p>
@@ -133,7 +133,7 @@
       Sometimes pain overlaps with the cause so when...
     </p>
     <p>
-      <a href="/src/pages/blogs/blog2.html" class="blog-continue"
+      <a href="/blogs/blog2" class="blog-continue"
         >Continue Reading</a
       >
     </p>
@@ -150,7 +150,7 @@
       post is a summary of Stephen Paulus’s article in...
     </p>
     <p>
-      <a href="/src/pages/blogs/blog1.html" class="blog-continue"
+      <a href="/blogs/blog1" class="blog-continue"
         >Continue Reading</a
       >
     </p>

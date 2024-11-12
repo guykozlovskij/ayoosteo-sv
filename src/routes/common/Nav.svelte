@@ -16,7 +16,7 @@
     <li><a href="/">Home</a></li>
     <li><a href="/about">About Me</a></li>
     <li><a href="/services">Services</a></li>
-    <li><a href="/blog">Blog</a></li>
+    <li><a href="/blogs">Blog</a></li>
   </ul>
   <div id="hamburger-menu">
     <input id="menu__toggle" type="checkbox" />
@@ -27,7 +27,7 @@
       <li><a class="menu__item" href="/">Home</a></li>
       <li><a class="menu__item" href="/about">About Me</a></li>
       <li><a class="menu__item" href="/services">Services</a></li>
-      <li><a class="menu__item" href="/blog">Blog</a></li>
+      <li><a class="menu__item" href="/blogs">Blog</a></li>
     </ul>
   </div>
 </nav>
