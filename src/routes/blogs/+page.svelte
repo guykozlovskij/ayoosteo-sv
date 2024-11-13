@@ -116,7 +116,7 @@
       for example tension headaches. Your first appointment...
     </p>
     <p>
-      <a href="/blogs/blog3.html" class="blog-continue"
+      <a href="/blogs/blog3" class="blog-continue"
         >Continue Reading</a
       >
     </p>
