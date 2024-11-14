@@ -49,7 +49,7 @@
     top: 0;
     position: fixed;
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
-    height: 100px;
+    height: 80px;
     display: flex;
     align-items: center;
     margin-bottom: 50px;
@@ -59,7 +59,7 @@
       display: none;
     }
     img {
-      max-height: 80px;
+      max-height: 70px;
       padding-bottom: 5px;
       padding-left: 15px;
     }

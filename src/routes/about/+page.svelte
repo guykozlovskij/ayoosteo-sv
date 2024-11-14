@@ -7,11 +7,12 @@
 <section id="about-page">
   <div id="about-profile-image">
     <img src={new2} alt="ayo profile" />
+    <h2>AYO KOZLOVSKIJ</h2>
     <h2>M.Ost, DO, ND</h2>
   </div>
   <section id="about-section">
+    
     <h1>About Me</h1>
-    <h2>AYO KOZLOVSKIJ</h2>
     <p>
       I graduated from the British College of Osteopathic Medicine with a
       Masters in Osteopathy and a Diploma in Naturopathy.
