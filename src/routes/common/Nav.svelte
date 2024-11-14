@@ -1,10 +1,15 @@
 <script>
   import logo from "$lib/images/logos/ayoosteo-logo.png";
+  import { navigating } from "$app/stores";
+
+  $: if ($navigating) {
+    document.getElementById("menu__toggle").checked = false;
+  }
 </script>
 
 <nav>
   <a href="/">
-    <img id="ayoosteo-logo" src={logo} alt="ayo osteo logo">
+    <img id="ayoosteo-logo" src={logo} alt="ayo osteo logo" />
   </a>
   <a href="/">
     <div id="ayoosteo-alt">
@@ -151,7 +156,6 @@
     }
     .menu__box {
       display: block;
-      // text-align: center;
       position: fixed;
       top: 0;
       left: -100%;
