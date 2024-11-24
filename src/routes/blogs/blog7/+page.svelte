@@ -1,12 +1,12 @@
 <script>
-  import hulaHoop from "../../../lib/images/article-img/8fee9-img_6378.jpeg"
+  import hulaHoop from "../../../lib/images/article-img/8fee9-img_6378.jpeg?enhanced"
 </script>
 
 <section class="blog-article-page">
   <div class="blog-text">
     <h1>Hula Hooping – Try something new</h1>
     <div class="article-image">
-      <img src={hulaHoop} alt="ayo hula hooping" />
+      <enhanced:img src={hulaHoop} alt="ayo hula hooping" />
     </div>
     <p>
       2 months ago I picked up a hula-hoop and I could not get it to stay up.

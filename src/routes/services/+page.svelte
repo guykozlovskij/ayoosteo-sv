@@ -1,5 +1,5 @@
 <script>
-  import ayoReception from "../../lib/images/misc/ayo_office_img_6397.webp";
+  import ayoReception from "../../lib/images/misc/ayo_office_img_6397.webp?enhanced";
 </script>
 
 <div id="services-page">
@@ -21,7 +21,7 @@
         </li>
       </ul>
     </div>
-    <img src={ayoReception} alt="ayo in office" />
+    <enhanced:img src={ayoReception} alt="ayo in office" />
   </section>
 </div>
 
@@ -68,6 +68,7 @@
       img {
         padding-left: base.$padding-left;
         padding-right: base.$padding-right;
+        height: auto;
       }
       #service-list {
         padding-left: base.$padding-left;

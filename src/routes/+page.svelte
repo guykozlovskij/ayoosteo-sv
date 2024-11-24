@@ -1,7 +1,7 @@
 <script>
   import new1 from "../lib/images/misc/new1.png?enhanced";
-  import gocRegistration from "../lib/images/certification/AyoO9396.jpg";
-  import ayoReception from "../lib/images/misc/ayo-reception_e0c10b38-c6a9-4fa4-8923-745833add36e_1_201_a.webp";
+  import gocRegistration from "../lib/images/certification/AyoO9396.jpg?enhanced";
+  import ayoReception from "../lib/images/misc/ayo-reception_e0c10b38-c6a9-4fa4-8923-745833add36e_1_201_a.webp?enhanced";
 </script>
 
 <section id="home-intro-section">
@@ -17,7 +17,7 @@
       highly effective treatment to ensure that your symptoms improve in as few
       sessions as possible.
     </p>
-    <img
+    <enhanced:img
       id="goc-registration"
       src={gocRegistration}
       alt="general osteopathic council registration no 9396"
@@ -34,7 +34,7 @@
 
 <section id="home-appointment-section">
   <div id="book-appointment-div">
-    <img src={ayoReception} alt="ayo reception" />
+    <enhanced:img src={ayoReception} alt="ayo reception" />
     <div id="book-appointment-button" class="button-green-inverted-div">
       <a class="button-green-inverted" href="#contact-component"
         >Book an appointment</a
@@ -84,11 +84,11 @@
     flex-direction: row;
     flex-wrap: wrap;
     #home-ayo-profile-image {
+      max-width: 450px;
       padding-left: base.$padding-left;
       padding-right: base.$padding-right;
       padding-bottom: base.$padding-bottom;
       img {
-        max-width: 450px;
         height: auto;
         width: 100%;
       }
@@ -123,6 +123,7 @@
 
     #goc-registration {
       width: 180px;
+      height: auto;
     }
   }
 
@@ -171,6 +172,7 @@
       }
       img {
         height: 420px;
+        width: auto;
         padding-top: 50px;
         padding-left: 25px;
         padding-right: 25px;

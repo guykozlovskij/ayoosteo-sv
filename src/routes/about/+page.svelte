@@ -1,12 +1,12 @@
 <script>
-  import new2 from "../../lib/images/misc/new2.png";
-  import goc from "../../lib/images/certification/AyoO9396.jpg";
-  import ioMembership from "../../lib/images/certification/iO-Member-logo-Digital.jpg";
+  import new2 from "../../lib/images/misc/new2.png?enhanced";
+  import goc from "../../lib/images/certification/AyoO9396.jpg?enhanced";
+  import ioMembership from "../../lib/images/certification/iO-Member-logo-Digital.jpg?enhanced";
 </script>
 
 <section id="about-page">
   <div id="about-profile-image">
-    <img src={new2} alt="ayo profile" />
+    <enhanced:img src={new2} alt="ayo profile" />
     <h2>AYO KOZLOVSKIJ</h2>
     <h2>M.Ost, DO, ND</h2>
   </div>
@@ -75,8 +75,8 @@
 </section>
 
 <div id="memberships">
-  <img src={goc} alt="ayo GOC registration" />
-  <img id="io-membership" src={ioMembership} alt="IO membership logo />" />
+  <enhanced:img src={goc} alt="ayo GOC registration" />
+  <enhanced:img id="io-membership" src={ioMembership} alt="IO membership logo />" />
 </div>
 
 <style lang="scss">
@@ -129,6 +129,7 @@
       border-radius: 50%;
       filter: grayscale(100%);
       margin-bottom: base.$padding-bottom;
+      height: auto;
     }
     h2 {
       text-align: center;
@@ -184,6 +185,12 @@
     .membership-number {
       font-weight: bold;
       color: black;
+    }
+  }
+
+  #memberships{
+    img {
+      height: auto;
     }
   }
 </style>
