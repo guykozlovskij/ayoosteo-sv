@@ -1,12 +1,12 @@
 <script>
-  import new1 from "../lib/images/misc/new1.png";
+  import new1 from "../lib/images/misc/new1.png?enhanced";
   import gocRegistration from "../lib/images/certification/AyoO9396.jpg";
   import ayoReception from "../lib/images/misc/ayo-reception_e0c10b38-c6a9-4fa4-8923-745833add36e_1_201_a.webp";
 </script>
 
 <section id="home-intro-section">
   <div id="home-ayo-profile-image">
-    <img src={new1} alt="ayo profile" />
+    <enhanced:img src={new1} alt="ayo profile" />
   </div>
   <div class="home-intro-text">
     <h1>AYO KOZLOVSKIJ</h1>
@@ -84,11 +84,12 @@
     flex-direction: row;
     flex-wrap: wrap;
     #home-ayo-profile-image {
-      max-width: 450px;
       padding-left: base.$padding-left;
       padding-right: base.$padding-right;
       padding-bottom: base.$padding-bottom;
       img {
+        max-width: 450px;
+        height: auto;
         width: 100%;
       }
     }
