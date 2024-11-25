@@ -1,11 +1,11 @@
 <script>
-  import acupuncture from "../../../lib/images/misc/acc-img_6466-2.webp";
+  import acupuncture from "../../../lib/images/misc/acc-img_6466-2.webp?enhanced";
 </script>
 
 <section class="service-display-page">
   <h1>Western Medical Acupuncture</h1>
   <div class="service-intro-image">
-    <img src={acupuncture} alt="acupuncture" />
+    <enhanced:img src={acupuncture} alt="acupuncture" />
   </div>
   <div class="services-text">
     <p>
