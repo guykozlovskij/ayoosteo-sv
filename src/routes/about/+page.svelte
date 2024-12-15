@@ -11,34 +11,40 @@
     <h2>M.Ost, DO, ND</h2>
   </div>
   <section id="about-section">
-    
     <h1>About Me</h1>
     <p>
       I graduated from the British College of Osteopathic Medicine with a
       Masters in Osteopathy and a Diploma in Naturopathy.
     </p>
     <p>
-      As an osteopath, I take a patient centred approach in working together
-      with you to help you recover from pain or injury, achieve optimal health
-      and altogether have an improved quality of life. I often combine
-      osteopathic techniques with advice on exercises, ergonomics, dietary
-      changes, wellness strategies and along the way helping you to understand
-      the problem and how to prevent it from recurring.
+      As an osteopath and health coach, I adopt a patient-centered approach,
+      working collaboratively with you to recover from pain or injury, achieve
+      optimal health, and enhance your overall quality of life. My practice
+      often integrates osteopathic and naturopathic principles with tailored
+      health coaching, offering guidance on dietary changes, exercise,
+      ergonomics, stress management, and wellness strategies. Along the way, I
+      strive to help you understand the root of the problem and empower you to
+      make sustainable lifestyle changes that promote long-term well-being.
     </p>
     <p>
-      I have experience of working with a wide spectrum of patients, as young as
-      newborns, adolescents, adults and geriatric patients.
+      I am currently completing a Health Coach Diploma with the College of
+      Naturopathic Medicine, further deepening my ability to support patients in
+      achieving their health and wellness goals.
     </p>
     <p>
-      Additionally, I hold qualifications in Medical Acupuncture, having
-      received training from the British Medical Acupuncture Society. I have
-      also worked as an osteopathic technique tutor and a practice educator at
-      The British College of Osteopathic Medicine and at the University College
-      of Osteopathy in London.
+      I have experience working with a diverse range of patients, from newborns
+      and adolescents to adults and geriatric individuals.
     </p>
     <p>
-      Outside of work I enjoy defeating my husband at badminton and indulging in
-      activities such as yoga and body weight exercises.
+      Additionally, I hold qualifications in Medical Acupuncture, having trained
+      with the British Medical Acupuncture Society. My professional experience
+      includes roles as an osteopathic technique tutor and practice educator at
+      the British College of Osteopathic Medicine and the University College of
+      Osteopathy in London.
+    </p>
+    <p>
+      Outside of work, I enjoy playing badminton and staying active through yoga
+      and bodyweight exercises.
     </p>
   </section>
 </section>
@@ -76,7 +82,11 @@
 
 <div id="memberships">
   <enhanced:img src={goc} alt="ayo GOC registration" />
-  <enhanced:img id="io-membership" src={ioMembership} alt="IO membership logo />" />
+  <enhanced:img
+    id="io-membership"
+    src={ioMembership}
+    alt="IO membership logo />"
+  />
 </div>
 
 <style lang="scss">
@@ -188,7 +198,7 @@
     }
   }
 
-  #memberships{
+  #memberships {
     img {
       height: auto;
     }

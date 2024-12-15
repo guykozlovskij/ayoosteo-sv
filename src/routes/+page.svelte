@@ -10,12 +10,15 @@
   </div>
   <div class="home-intro-text">
     <h1>AYO KOZLOVSKIJ</h1>
-    <h2>Osteopath and Medical Acupuncturist</h2>
+    <h2>Health Coach, Osteopath and Medical Acupuncturist</h2>
     <p>
-      Based in Thurrock and Havering. My passion is to help you to recover from
-      pain, rehabilitate from injury and achieve great health. I provide a
-      highly effective treatment to ensure that your symptoms improve in as few
-      sessions as possible.
+      My passion is helping you recover from pain, rehabilitate from injury, and
+      achieve optimal health. I offer highly effective treatments designed to
+      alleviate your symptoms in as few sessions as possible.
+      <br /><br />
+      Beyond addressing immediate concerns, my ultimate goal is to empower you to
+      embrace and maintain a healthy lifestyle. Together, we’ll work to create lasting
+      change so you can enjoy a life free from recurring pain.
     </p>
     <enhanced:img
       id="goc-registration"
@@ -108,6 +111,8 @@
         color: #297d2d;
       }
       h2 {
+        max-width: 380px;
+        text-align: center;
         padding-bottom: base.$padding-bottom;
         font-size: base.$intro-text;
       }
