@@ -3,7 +3,6 @@
     <h2>Have any questions about my services?</h2>
   </div>
   <h1>Contact Me</h1>
-  <p>Osteopath and Medical Acupuncturist. Based in Thurrock and Havering.</p>
   <div id="contact-details">
     <div class="button-green-div">
       <a class="button-green" href="mailto: ayoosteo@gmail.com">
@@ -20,7 +19,7 @@
   #contact-component {
     width: 100%;
     background-color: base.$ayoosteoblue;
-    height: 550px;
+    height: 450px;
     display: flex;
     flex-direction: column;
     align-items: center;
