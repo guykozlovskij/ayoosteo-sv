@@ -14,10 +14,11 @@
           <a href="/services/osteopathy">Osteopathy & Medical Acupuncture</a>
         </li>
         <li>
-          <a href="/services/dse">DSE Workstation Assessment</a>
+          <a href="/services/dse">Workstation Assessment</a>
         </li>
         <li>
-          <a href="/services/clinic-visit">Clinic Visit</a>
+          <a href="/services/workplace">Workplace Wellbeing Interactive Sessions
+          </a>
         </li>
       </ul>
     </div>

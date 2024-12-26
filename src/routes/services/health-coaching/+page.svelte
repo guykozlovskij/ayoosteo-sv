@@ -2,32 +2,32 @@
   <h1 class="service-title">Health Coaching</h1>
   <div class="services-text">
     <p>
-      The body and the mind have an incredible ability to heal themselves when
-      supported by the right environment and the maintenance of healthy habits.
-      It is not just about diet and exercise—your daily rituals, work
-      environment, relationships, and more all play a role in shaping your
-      overall health.
+      The body and the mind have an incredible capacity to thrive when supported
+      by the right environment and the maintenance of healthy habits. It is not
+      just about diet and exercise—your daily rituals, work environment,
+      relationships, and more all play a role in shaping your overall health and
+      well-being.
     </p>
     <p>
       With nearly a decade of experience as an osteopath, I have learned that
       hands-on treatment alone is often not enough. While it can feel great and
-      provide relief, lasting changes require more effort and understanding.
-      That is where health literacy comes in! Educating and empowering you is
-      key.
+      provide relief, achieving lasting improvements requires a broader
+      approach. That is where health literacy comes in! Educating and empowering
+      you is key.
     </p>
     <p>
       Together, we will identify realistic changes you can make and work
-      step-by-step to implement them, helping you create lasting improvements to
-      your health and well-being and develop a tailored plan that aligns with
-      your lifestyle and goals.
+      step-by-step to implement them, helping you enhance your health and
+      well-being. We will develop a tailored plan that aligns with your
+      lifestyle and goals.
     </p>
     <p>
       While I have a special interest in working with individuals living with
-      chronic pain, health coaching is beneficial for everyone. If you are ready
-      to invest in your long-term health, health coaching is for you. Get in
-      touch today!
+      chronic pain, health coaching is for anyone who wants to prioritise their
+      health and make meaningful, lasting changes. If you’re ready to invest in
+      your long-term well-being, health coaching is for you. Get in touch today!
     </p>
-    <br>
+    <br />
     <ul id="services-list">
       <h1>Health Coaching Services</h1>
       <li>

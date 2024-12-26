@@ -1,8 +1,13 @@
 <section id="contact-component">
   <div>
-    <h2>Have any questions about my services?</h2>
+    <h1>Contact Me</h1>
+    <h2>
+      Interested in my services?
+      <br>
+      Get in touch for
+      a free discovery call.
+    </h2>
   </div>
-  <h1>Contact Me</h1>
   <div id="contact-details">
     <div class="button-green-div">
       <a class="button-green" href="mailto: ayoosteo@gmail.com">
@@ -17,6 +22,7 @@
   @use "../../styles/base";
 
   #contact-component {
+    text-align: center;
     width: 100%;
     background-color: base.$ayoosteoblue;
     height: 450px;
@@ -29,7 +35,7 @@
     h2 {
       font-size: base.$intro-text;
       font-weight: normal;
-      padding-bottom: base.$padding-bottom;
+      padding-bottom: 40px;
       text-align: center;
       color: rgb(255, 255, 255);
     }
