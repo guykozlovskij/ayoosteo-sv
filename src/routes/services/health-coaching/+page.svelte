@@ -64,11 +64,14 @@
   }
 
   #services-list {
-    background-color: rgb(184, 209, 208);
+    background-color: base.$ayoosteogreen;
     padding: 50px;
     margin-bottom: 30px;
     border-radius: 5px;
     padding-bottom: 0px;
+    h1, li, span {
+      color: whitesmoke !important;
+    }
   }
 
   #package {

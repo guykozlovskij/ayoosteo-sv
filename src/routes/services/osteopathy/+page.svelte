@@ -57,12 +57,14 @@
   @use "../../../styles/services";
 
   #disclaimer {
-    background-color: rgb(184, 209, 208);
+    background-color:base.$ayoosteoblue;
+    color: whitesmoke;
     padding: 30px;
     margin-bottom: 30px;
     border-radius: 5px;
     a{
-      color: base.$ayoosteoblue;
+      // color: base.$ayoosteogreen;
+      color: whitesmoke
     }
   }
 </style>

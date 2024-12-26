@@ -46,29 +46,13 @@
       </li>
     </ul>
     <div id="dse-services">
-      <div>
-        <h3>Types of Assessments</h3>
-        <h4>Basic 30 minute assessment</h4>
-        <p>
-          Ideal for anyone needing guidance on setting up a suitable workstation
-          or experiencing mild discomfort from their current setup.
-        </p>
-        <p class="dse-bold">Includes a full report within 1-2 days</p>
-      </div>
-      <br />
-      <div>
-        <h4>Complex 60 minute assessment</h4>
-        <p>
-          Designed for individuals with pre-existing conditions aggravated by
-          their workstation setup.
-        </p>
+      <div> 
+        <h4>Book a 60 minute online assessment - £80</h4>
         <p class="dse-bold">
           Includes a full report within 1-2 days and a follow up session.
         </p>
         <span
-          >Assessment can be carried out in person or remotely to suit your
-          needs</span
-        >
+          >Assessment can be carried out in person at an aditional cost</span>
       </div>
     </div>
   </div>
@@ -83,9 +67,12 @@
     padding-bottom: 20px;
   }
   #dse-services {
-    background-color: rgb(184, 209, 208);
+    background-color: base.$ayoosteogreen;
     padding: 30px;
     margin-bottom: 30px;
     border-radius: 5px;
+    h4, h3, p, span{
+      color: whitesmoke !important;
+    }
   }
 </style>
