@@ -8,10 +8,10 @@
     <div id="service-list">
       <ul>
         <li>
-          <a href="/services/osteopathy">Osteopathy</a>
+          <a href="/services/health-coaching">Health Coaching</a>
         </li>
         <li>
-          <a href="/services/acupuncture">Medical Acupuncture</a>
+          <a href="/services/osteopathy">Osteopathy & Medical Acupuncture</a>
         </li>
         <li>
           <a href="/services/dse">DSE Workstation Assessment</a>
@@ -21,7 +21,6 @@
         </li>
       </ul>
     </div>
-    <enhanced:img src={ayoReception} alt="ayo in office" />
   </section>
 </div>
 

@@ -3,7 +3,7 @@
 </script>
 
 <section class="service-display-page">
-  <h1>Clinic Visit</h1>
+  <h1 class="service-title">Clinic Visit</h1>
   <a target="_blank" href="https://thefamilyhealthhub.co.uk/">
     <img id="fhh-logo" src={tffhLogo} alt="family health hub logo" />
   </a>

@@ -3,7 +3,7 @@
 </script>
 
 <section class="service-display-page">
-  <h1>DSE Workstation Assessment</h1>
+  <h1 class="service-title">DSE Workstation Assessment</h1>
   <h2>
     Many musculoskeletal pain cases are caused by either a poor workstation set
     up or poor use of a good workstation setup.

@@ -35,7 +35,7 @@
       life.
     </p>
     <div class="button-green-div services-button">
-      <a class="button-green">Coming Soon</a>
+      <a class="button-green" href="/services/health-coaching">Learn More</a>
     </div>
   </div>
   <div id="service-2">

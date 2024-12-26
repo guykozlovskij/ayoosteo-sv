@@ -29,7 +29,7 @@ $button-padding: 15px;
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  h1 {
+  .service-title {
     font-size: $title;
     color: $ayoosteogreen;
     max-width: $paragraph;
@@ -45,6 +45,10 @@ $button-padding: 15px;
     padding-right: $padding-right;
   }
   .services-text {
+    h1{
+      font-size: 30px;
+      padding-bottom: $padding-bottom;
+    }
     padding-left: $padding-left;
     padding-right: $padding-right;
     max-width: $paragraph;
