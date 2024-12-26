@@ -48,8 +48,7 @@
       </ul>
     </ul>
     <p id="package">
-      Packages are available in request after the first consultation, once we
-      determine together the number of sessions and frequency needed.
+      Packages are available on request.
     </p>
   </div>
 </section>

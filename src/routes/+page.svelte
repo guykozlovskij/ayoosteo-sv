@@ -13,13 +13,7 @@
     <h1>AYO KOZLOVSKIJ</h1>
     <h2>Health Coach, Osteopath and Medical Acupuncturist</h2>
     <p>
-      My passion is helping you recover from pain, rehabilitate from injury, and
-      achieve optimal health. I offer highly effective treatments designed to
-      alleviate your symptoms in as few sessions as possible.
-      <br /><br />
-      Beyond addressing immediate concerns, my ultimate goal is to empower you to
-      embrace and maintain a healthy lifestyle. Together, we’ll work to create lasting
-      change so you can enjoy a life free from recurring pain.
+      My passion is to empower you to embrace and maintain a healthy lifestyle. Together, we will collaborate to create lasting change, achieve optimal health and enable you to live a fulfilling and balanced life.
     </p>
   </div>
 </section>
@@ -30,7 +24,7 @@
     <p>
       Health coaching empowers you to make sustainable lifestyle changes,
       focusing on areas like nutrition, exercise, sleep, stress management, and
-      overall wellness. It provides personalized guidance to help you achieve
+      overall wellness. It provides personalised guidance to help you achieve
       your health goals and create lasting habits for a healthier, balanced
       life.
     </p>

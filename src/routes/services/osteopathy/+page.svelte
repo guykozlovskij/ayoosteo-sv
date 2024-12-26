@@ -12,7 +12,7 @@
     <p>
       Osteopathy is a holistic approach to healthcare that focuses on
       diagnosing, treating, and preventing musculoskeletal issues by addressing
-      the body as a whole. We uses hands-on techniques to improve mobility,
+      the body as a whole. We use hands-on techniques to improve mobility,
       alleviate pain, and enhance overall well-being.
     </p>
     <p>You can visit an osteopath for:</p>

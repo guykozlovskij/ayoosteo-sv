@@ -16,8 +16,7 @@
     <p id="dse2" class="italic">Who needs to be assessed:</p>
     <ul>
       <li>Anyone who works behind a desk for an hour or more at a time</li>
-      <li>Anyone complaining of discomfort/pain</li>
-      <li>Working from home</li>
+      <li>Anyone experiencing discomfort/pain while working</li>
     </ul>
     <div id="computer-infographic">
       <img src={workstation} alt="computer infographic" />
@@ -29,9 +28,8 @@
         in-depth knowledge of biomechanics, posture, and musculoskeletal issues.
       </li>
       <li>
-        I provide practical, tailored solutions for individuals and educate them
-        on posture and chair adjustments, especially if multiple people use the
-        same chair.
+        I provide practical, tailored solutions and educate you on posture and
+        chair adjustments.
       </li>
       <li>
         I optimise the use of available equipment, your environment, and work
@@ -49,7 +47,7 @@
       <div> 
         <h4>Book a 60 minute online assessment - £80</h4>
         <p class="dse-bold">
-          Includes a full report within 1-2 days and a follow up session.
+          Includes a full report within 1-2 days and a follow up call to check in.
         </p>
         <span
           >Assessment can be carried out in person at an aditional cost</span>
