@@ -10,14 +10,15 @@
     <enhanced:img src={new1} alt="ayo profile" />
   </div>
   <div class="home-intro-text">
-    <h1>AYO KOZLOVSKIJ</h1>
+    <h1 id="ayo-title">Ayo Kozlovskij</h1>
     <h2>Health Coach, Osteopath and Medical Acupuncturist</h2>
     <p>
-      Hello, my name is Ayo, and I am thrilled to welcome you as you take your first steps
-      toward optimal health. I specialize in managing chronic pain, helping
-      individuals break free from its vicious cycle and reclaim their quality of
-      life through a holistic, personalized approach to health coaching. Let’s
-      connect to discuss how I can support you on your journey to better health.
+      Hello, my name is Ayo, and I am thrilled to welcome you as you take your
+      first steps toward optimal health. I specialize in managing chronic pain,
+      helping individuals break free from its vicious cycle and reclaim their
+      quality of life through a holistic, personalized approach to health
+      coaching. Let’s connect to discuss how I can support you on your journey
+      to better health.
     </p>
   </div>
 </section>
@@ -92,6 +93,10 @@
 
   html {
     scroll-behavior: smooth;
+  }
+
+  #ayo-title{
+    text-transform: uppercase;
   }
 
   #home-intro-section {
