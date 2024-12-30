@@ -13,7 +13,11 @@
     <h1>AYO KOZLOVSKIJ</h1>
     <h2>Health Coach, Osteopath and Medical Acupuncturist</h2>
     <p>
-      My passion is to empower you to embrace and maintain a healthy lifestyle. Together, we will collaborate to create lasting change, achieve optimal health and enable you to live a fulfilling and balanced life.
+      Hello, my name is Ayo, and I am thrilled to welcome you as you take your first steps
+      toward optimal health. I specialize in managing chronic pain, helping
+      individuals break free from its vicious cycle and reclaim their quality of
+      life through a holistic, personalized approach to health coaching. Let’s
+      connect to discuss how I can support you on your journey to better health.
     </p>
   </div>
 </section>
@@ -42,7 +46,9 @@
       well-being.
     </p>
     <div class="button-green-div services-button">
-      <a class="button-green" id="blue-button" href="/services/osteopathy">Learn More</a>
+      <a class="button-green" id="blue-button" href="/services/osteopathy"
+        >Learn More</a
+      >
     </div>
   </div>
 </section>
