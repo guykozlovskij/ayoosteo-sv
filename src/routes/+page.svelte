@@ -6,9 +6,7 @@
 </script>
 
 <section id="home-intro-section">
-  <div id="home-ayo-profile-image">
-    <enhanced:img src={new1} alt="ayo profile" />
-  </div>
+  <enhanced:img src={new1} alt="ayo profile" class="home-ayo-profile-image" />
   <div class="home-intro-text">
     <h1 id="ayo-title">Ayo Kozlovskij</h1>
     <h2>Health Coach, Osteopath and Medical Acupuncturist</h2>
@@ -95,7 +93,7 @@
     scroll-behavior: smooth;
   }
 
-  #ayo-title{
+  #ayo-title {
     text-transform: uppercase;
   }
 
@@ -105,15 +103,13 @@
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
-    #home-ayo-profile-image {
+    .home-ayo-profile-image {
       max-width: 450px;
       padding-left: base.$padding-left;
       padding-right: base.$padding-right;
       padding-bottom: base.$padding-bottom;
-      img {
-        height: auto;
-        width: 100%;
-      }
+      height: auto;
+      width: 100%;
     }
 
     .home-intro-text {
