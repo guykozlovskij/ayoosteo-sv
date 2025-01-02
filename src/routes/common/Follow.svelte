@@ -4,7 +4,7 @@
     <a
       aria-label="instagram logo"
       target="_blank"
-      href="https://www.instagram.com/ayoosteo/?hl=en"
+      href="https://www.instagram.com/ayokozlovskij"
       rel="noreferrer"
     >
       <svg
