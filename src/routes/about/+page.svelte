@@ -123,9 +123,6 @@
       font-size: base.$text-regular;
       text-align: justify;
       text-justify: inter-word;
-      @media (max-width: 450px) {
-        text-align: start;
-      }
     }
   }
 
@@ -172,9 +169,6 @@
       font-size: base.$text-regular;
       text-align: justify;
       text-justify: inter-word;
-      @media (max-width: 450px) {
-        text-align: start;
-      }
     }
     span {
       padding-bottom: base.$padding-bottom;

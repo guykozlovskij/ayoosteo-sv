@@ -28,27 +28,97 @@
       your long-term well-being, health coaching is for you. Get in touch today!
     </p>
     <br />
-    <ul id="services-list">
-      <h1>Health Coaching Services</h1>
-      <li>
-        <span class="service"
-          >Initial online 90-minute consultation – £140<span></span></span
-        >
-      </li>
-      <li>
-        <span class="service">Follow-up online 60-minute session – £100</span>
-      </li>
-      <li>
-        <span class="service"
-          >45-minute online Health MOT - £80<span></span></span
-        >
-      </li>
-      <ul>
-        <li>(Exclusively available for current health coaching clients)</li>
-      </ul>
-    </ul>
-    <p id="package">
-      Packages are available on request.
+    <h1>Health Coaching Services</h1>
+    <section id="services-parent">
+      <div class="service">
+        <h2>60-Minute Online Health MOT - £99</h2>
+        <p>
+          For individuals without specific health issues who want guidance on
+          living a healthier life without committing to a long-term plan.
+        </p>
+        <p>What’s included:</p>
+        <ul>
+          <li>
+            <strong>Pre-session:</strong> Complete a 4-day food diary and a short
+            questionnaire to help me understand your current health and lifestyle.
+          </li>
+          <li>
+            <strong>Initial Consultation:</strong> Review your diet and lifestyle
+            to identify easy, effective actions you can implement immediately.
+          </li>
+          <li>
+            <strong>Tailored Plan:</strong> A personalised document sent to you within
+            two working days.
+          </li>
+        </ul>
+      </div>
+      <div class="service">
+        <h2>90-Minute Online Consultation - £129</h2>
+        <p>
+          Perfect for those with chronic diseases, complex health conditions, or
+          multiple symptoms requiring an in-depth approach. This session
+          provides comprehensive, personalised care to address root causes and
+          develop lasting solutions.
+        </p>
+        <p>What’s included:</p>
+        <ul>
+          <li>
+            <strong>Pre-session:</strong> Complete a 4-day food diary and a detailed
+            questionnaire to provide insights into your current health and lifestyle.
+          </li>
+          <li><strong>Initial Consultation:</strong></li>
+          <ul>
+            <li>
+              An extensive review of your health history, symptoms, and
+              lifestyle factors.
+            </li>
+            <li>
+              Identification of root causes, potential triggers, and connections
+              between various health issues.
+            </li>
+            <li>
+              In-depth recommendations for immediate and sustainable
+              improvements.
+            </li>
+          </ul>
+          <li><strong>Tailored Plan:</strong></li>
+          <ul>
+            <li>
+              A comprehensive, step-by-step action plan, including diet,
+              lifestyle, and habit changes designed to improve your overall
+              health.
+            </li>
+            <li>
+              Delivered within two working days, with clear guidance on next
+              steps.
+            </li>
+          </ul>
+        </ul>
+        <p>
+          This session offers a deep, tailored analysis and personalised plan,
+          making it ideal for complex health needs. It provides maximum value
+          for those who require more time and expertise to achieve meaningful,
+          lasting improvements in their healt
+        </p>
+      </div>
+      <div class="service">
+        <h2>45-Minute Follow-Up Sessions - £62</h2>
+        <p>What’s included:</p>
+        <ul>
+          <li>Progress Review: Discuss progress and evaluate any changes.</li>
+          <li>Ongoing Recommendations: Guidance on the next steps.</li>
+          <li>
+            Updated Plan: A revised plan sent to you within two working days.
+          </li>
+        </ul>
+        <p></p>
+      </div>
+    </section>
+    <h1>Ongoing Support</h1>
+    <p>
+      You are welcome to message me in between sessions with any questions or
+      concerns. This ensures you have ongoing guidance and support to help you
+      stay on track and address any issues as they arise.
     </p>
   </div>
 </section>
@@ -58,22 +128,21 @@
   @use "../../../styles/services";
 
   .service {
-    font-weight: heavy;
-    font-size: 24px;
-  }
-
-  #services-list {
-    background-color: base.$ayoosteogreen;
-    padding: 50px;
+    // border: 6px solid base.$ayoosteoblue;
+    // background-color:base.$ayoosteogreen;
+    border: 6px solid base.$ayoosteogreen;
+    background-color: base.$ayoosteoblue;
+    border-radius: 10px;
     margin-bottom: 30px;
-    border-radius: 5px;
-    padding-bottom: 0px;
-    h1, li, span {
-      color: whitesmoke !important;
+    padding: 30px 20px 20px 20px;
+    h1,
+    ul,
+    h2,
+    h3,
+    li,
+    strong,
+    p {
+      color: whitesmoke;
     }
-  }
-
-  #package {
-    font-style: italic;
   }
 </style>
