@@ -183,9 +183,6 @@
         padding-bottom: 15px;
         text-align: justify;
         text-justify: inter-word;
-        @media (max-width: 450px) {
-          text-align: start;
-        }
       }
       .blog-continue {
         color: base.$ayoosteoblue;
