@@ -98,7 +98,7 @@
           This session offers a deep, tailored analysis and personalised plan,
           making it ideal for complex health needs. It provides maximum value
           for those who require more time and expertise to achieve meaningful,
-          lasting improvements in their healt
+          lasting improvements in their health.
         </p>
       </div>
       <div class="service">
