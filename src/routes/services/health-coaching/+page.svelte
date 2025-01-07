@@ -51,6 +51,14 @@
             two working days.
           </li>
         </ul>
+        <div id="contact-details">
+          <div class="button-green-div">
+            <a class="button-green" href="mailto: ayoosteo@gmail.com">
+              <i class="fas fa-envelope"></i>
+              Book Now
+            </a>
+          </div>
+        </div>
       </div>
       <div class="service">
         <h2>90-Minute Online Consultation - £129</h2>
@@ -100,6 +108,14 @@
           for those who require more time and expertise to achieve meaningful,
           lasting improvements in their health.
         </p>
+        <div id="contact-details">
+          <div class="button-green-div">
+            <a class="button-green" href="mailto: ayoosteo@gmail.com">
+              <i class="fas fa-envelope"></i>
+              Book Now
+            </a>
+          </div>
+        </div>
       </div>
       <div class="service">
         <h2>45-Minute Follow-Up Sessions - £62</h2>
@@ -111,7 +127,14 @@
             Updated Plan: A revised plan sent to you within two working days.
           </li>
         </ul>
-        <p></p>
+        <div id="contact-details">
+          <div class="button-green-div">
+            <a class="button-green" href="mailto: ayoosteo@gmail.com">
+              <i class="fas fa-envelope"></i>
+              Book Now
+            </a>
+          </div>
+        </div>
       </div>
     </section>
     <h1>Ongoing Support</h1>
@@ -145,4 +168,14 @@
       color: whitesmoke;
     }
   }
+  #contact-details {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    a {
+      margin-bottom: 20px;
+      width: 230px;
+    }
+  }
+  
 </style>

@@ -44,13 +44,22 @@
       </li>
     </ul>
     <div id="dse-services">
-      <div> 
+      <div>
         <h4>Book a 60 minute online assessment - £80</h4>
         <p class="dse-bold">
-          Includes a full report within 1-2 days and a follow up call to check in.
+          Includes a full report within 1-2 days and a follow up call to check
+          in.
         </p>
-        <span
-          >Assessment can be carried out in person at an aditional cost</span>
+        <div id="contact-details">
+          <div class="button-green-div">
+            <a class="button-green" href="mailto: ayoosteo@gmail.com">
+              <i class="fas fa-envelope"></i>
+              Book Now
+            </a>
+          </div>
+        </div>
+        <span>Assessment can be carried out in person at an aditional cost</span
+        >
       </div>
     </div>
   </div>
@@ -65,12 +74,27 @@
     padding-bottom: 20px;
   }
   #dse-services {
-    background-color: base.$ayoosteogreen;
+    background-color: base.$ayoosteoblue;
     padding: 30px;
     margin-bottom: 30px;
-    border-radius: 5px;
-    h4, h3, p, span{
+    border: 6px solid base.$ayoosteogreen;
+    background-color: base.$ayoosteoblue;
+    border-radius: 10px;
+    h4,
+    h3,
+    p,
+    span {
       color: whitesmoke !important;
+    }
+  }
+
+  #contact-details {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    a {
+      margin-bottom: 20px;
+      width: 230px;
     }
   }
 </style>
