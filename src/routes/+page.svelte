@@ -9,7 +9,7 @@
   <enhanced:img src={new1} alt="ayo profile" class="home-ayo-profile-image" />
   <div class="home-intro-text">
     <h1 id="ayo-title">Ayo Kozlovskij</h1>
-    <h2>Health Coach, Osteopath and Medical Acupuncturist</h2>
+    <h2>Osteopath, Naturopath and Health Coach</h2>
     <p>
       Hello, my name is Ayo, and I am thrilled to welcome you as you take your
       first steps toward optimal health. I specialize in managing chronic pain,

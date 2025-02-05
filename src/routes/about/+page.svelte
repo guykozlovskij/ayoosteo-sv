@@ -1,5 +1,5 @@
 <script>
-  import new2 from "../../lib/images/misc/new2.png?enhanced";
+  import new2 from "../../lib/images/misc/new2.jpg?enhanced";
   import goc from "../../lib/images/certification/AyoO9396.jpg?enhanced";
   import ioMembership from "../../lib/images/certification/iO-Member-logo-Digital.jpg?enhanced";
 </script>
