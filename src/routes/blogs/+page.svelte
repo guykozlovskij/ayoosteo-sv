@@ -2,6 +2,41 @@
   <h1>Blog</h1>
 
   <div class="blog-intro">
+    <h2 class="blog-title">
+      The Shorter Your Sleep, The Shorter Your Lifespan: How to Improve Your
+      Sleep Hygiene
+    </h2>
+    <p class="blog-preview">
+      Sleep is a cornerstone of health, yet many adults struggle to get the
+      recommended 7–9 hours per night. Poor sleep is linked to a range of health
+      issues, from weakened immunity to increased risk of chronic diseases. If
+      you’re finding it difficult to get quality rest, it may be time to
+      evaluate your sleep hygiene....
+    </p>
+    <p>
+      <a href="/blogs/blog12" class="blog-continue">Continue Reading</a>
+    </p>
+    <p class="blog-date">February, 2025</p>
+  </div>
+
+  <div class="blog-intro">
+    <h2 class="blog-title">
+      The Five Core Components of Health: A Holistic Approach
+    </h2>
+    <p class="blog-preview">
+      Hi, I’m Ayo! As an osteopath, naturopath, and health coach. My goal is to
+      simplify health and help you cut through the noise. Achieving optimal
+      health is not about quick fixes—it’s about understanding the basics,
+      tuning into your body, and building sustainable habits that support your
+      well-being...
+    </p>
+    <p>
+      <a href="/blogs/blog11" class="blog-continue">Continue Reading</a>
+    </p>
+    <p class="blog-date">January, 2025</p>
+  </div>
+
+  <div class="blog-intro">
     <h2 class="blog-title">Western Medical Acupuncture</h2>
     <p class="blog-preview">
       Western medical acupuncture or dry needling is a beneficial adjunct to

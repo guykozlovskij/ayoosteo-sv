@@ -4,9 +4,12 @@
     <p>
       The body and the mind have an incredible capacity to thrive when supported
       by the right environment and the maintenance of healthy habits. It is not
-      just about diet and exercise—your daily rituals, work environment,
-      relationships, and more all play a role in shaping your overall health and
-      well-being.
+      just about diet and exercise—your daily rituals, work, <a
+        style="color: rgb(0, 105, 69)"
+        href="/blogs/blog12"
+        target="_blank">sleep</a
+      >, environment, relationships, and more all play a role in shaping your
+      overall health and well-being.
     </p>
     <p>
       With nearly a decade of experience as an osteopath, I have learned that
@@ -23,7 +26,10 @@
     </p>
     <p>
       While I have a special interest in working with individuals living with
-      chronic pain, health coaching is for anyone who wants to prioritise their
+      chronic pain, <a
+      style="color: rgb(0, 105, 69)"
+      href="/blogs/blog11"
+      target="_blank">health coaching</a> is for anyone who wants to prioritise their
       health and make meaningful, lasting changes. If you’re ready to invest in
       your long-term well-being, health coaching is for you. Get in touch today!
     </p>
@@ -31,37 +37,7 @@
     <h1>Health Coaching Services</h1>
     <section id="services-parent">
       <div class="service">
-        <h2>60-Minute Online Health MOT - £99</h2>
-        <p>
-          For individuals without specific health issues who want guidance on
-          living a healthier life without committing to a long-term plan.
-        </p>
-        <p>What’s included:</p>
-        <ul>
-          <li>
-            <strong>Pre-session:</strong> Complete a 4-day food diary and a short
-            questionnaire to help me understand your current health and lifestyle.
-          </li>
-          <li>
-            <strong>Initial Consultation:</strong> Review your diet and lifestyle
-            to identify easy, effective actions you can implement immediately.
-          </li>
-          <li>
-            <strong>Tailored Plan:</strong> A personalised document sent to you within
-            two working days.
-          </li>
-        </ul>
-        <div id="contact-details">
-          <div class="button-green-div">
-            <a class="button-green" href="mailto: ayoosteo@gmail.com">
-              <i class="fas fa-envelope"></i>
-              Book Now
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="service">
-        <h2>90-Minute Online Consultation - £129</h2>
+        <h2>90 - Minute Online Consultation - £129</h2>
         <p>
           Perfect for those with chronic diseases, complex health conditions, or
           multiple symptoms requiring an in-depth approach. This session
@@ -97,8 +73,7 @@
               health.
             </li>
             <li>
-              Delivered within two working days, with clear guidance on next
-              steps.
+              Delivered within 24 hours, with clear guidance on next steps.
             </li>
           </ul>
         </ul>
@@ -118,14 +93,42 @@
         </div>
       </div>
       <div class="service">
+        <h2>60 - Minute Online Health MOT - £99</h2>
+        <p>
+          For individuals without specific health issues who want guidance on
+          living a healthier life without committing to a long-term plan.
+        </p>
+        <p>What’s included:</p>
+        <ul>
+          <li>
+            <strong>Pre-session:</strong> Complete a 4-day food diary and a short
+            questionnaire to help me understand your current health and lifestyle.
+          </li>
+          <li>
+            <strong>Initial Consultation:</strong> Review your diet and lifestyle
+            to identify easy, effective actions you can implement immediately.
+          </li>
+          <li>
+            <strong>Tailored Plan:</strong> A personalised document sent to you within
+            24 hours.
+          </li>
+        </ul>
+        <div id="contact-details">
+          <div class="button-green-div">
+            <a class="button-green" href="mailto: ayoosteo@gmail.com">
+              <i class="fas fa-envelope"></i>
+              Book Now
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="service">
         <h2>45-Minute Follow-Up Sessions - £62</h2>
         <p>What’s included:</p>
         <ul>
           <li>Progress Review: Discuss progress and evaluate any changes.</li>
           <li>Ongoing Recommendations: Guidance on the next steps.</li>
-          <li>
-            Updated Plan: A revised plan sent to you within two working days.
-          </li>
+          <li>Updated Plan: A revised plan sent to you within 24 hours.</li>
         </ul>
         <div id="contact-details">
           <div class="button-green-div">
@@ -177,5 +180,4 @@
       width: 230px;
     }
   }
-  
 </style>

@@ -17,7 +17,7 @@
       Masters in Osteopathy and a Diploma in Naturopathy.
     </p>
     <p>
-      As an osteopath, naturopath and health coach, I adopt a patient-centered approach,
+      As an osteopath, naturopath and health coach, I 0adopt a patient-centered approach,
       working collaboratively with you to recover from pain or injury, achieve
       optimal health, and enhance your overall quality of life. My practice
       often integrates osteopathic and naturopathic principles with tailored
