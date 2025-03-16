@@ -11,14 +11,14 @@
           <a href="/services/health-coaching">Health Coaching</a>
         </li>
         <li>
-          <a href="/services/osteopathy">Osteopathy & Medical Acupuncture</a>
+          <a href="/services/workplace">Workplace Wellbeing Interactive Sessions
+          </a>
         </li>
         <li>
           <a href="/services/dse">Workstation Assessment</a>
         </li>
         <li>
-          <a href="/services/workplace">Workplace Wellbeing Interactive Sessions
-          </a>
+          <a href="/services/osteopathy">Osteopathy & Medical Acupuncture</a>
         </li>
       </ul>
     </div>

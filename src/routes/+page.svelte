@@ -11,12 +11,12 @@
     <h1 id="ayo-title">Ayo Kozlovskij</h1>
     <h2>Osteopath, Naturopath and Health Coach</h2>
     <p>
-      Hello, my name is Ayo, and I am thrilled to welcome you as you take your
-      first steps toward optimal health. I specialize in managing chronic pain,
-      helping individuals break free from its vicious cycle and reclaim their
-      quality of life through a holistic, personalized approach to health
-      coaching. Let’s connect to discuss how I can support you on your journey
-      to better health.
+      Hi, my name is Ayo, and I help busy individuals prioritise their health
+      and prevent lifestyle diseases, even amidst a hectic schedule and the
+      overwhelming amount of conflicting information online. Through a holistic
+      and personalised approach, I guide my clients toward sustainable habits
+      that support long-term well-being. Let’s connect to explore how I can
+      support you on your health journey.
     </p>
   </div>
 </section>

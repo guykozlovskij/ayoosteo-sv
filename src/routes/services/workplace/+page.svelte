@@ -2,37 +2,30 @@
   <h1 class="service-title">Workplace Wellbeing Interactive Sessions</h1>
   <div class="services-text">
     <p>
-      Invest in your team's health and well-being with interactive sessions
-      designed to empower your employees to achieve optimal health. Tailored to
-      your workplace's unique needs, these sessions provide valuable education
-      and practical tools that can make a significant impact on your team's
-      productivity, engagement, and overall happiness.
+      Hire me to deliver bespoke health coaching programs, give impactful talks,
+      and work closely with your team to help them feel their best.
     </p>
-    <h2>Why Choose Workplace Wellbeing Sessions?</h2>
+    <p>
+      Studies have shown that businesses that focus on employee engagement see a
+      20% increase in productivity and lower absenteeism.
+    </p>
+    <h2>A Tailored Approach:</h2>
     <ul>
       <li>
-        <strong>Boost Productivity & Creativity:</strong> Healthy employees are more
-        focused, energised, and innovative, leading to better work outcomes.
+        <strong>Book a 'Discovery Meeting'</strong> – A session where I can get
+        to know your company, your team, and your specific needs. Based on this,
+        I will create a tailored program that addresses your unique requirements.
       </li>
       <li>
-        <strong>Reduce Sick Days & Absenteeism:</strong> By addressing health concerns
-        early, these sessions can help lower stress levels, prevent injuries, and
-        reduce the number of sick days.
-      </li>
-      <li>
-        <strong>Foster Loyalty & Retention:</strong> Investing in your team's well-being
-        cultivates a supportive and caring workplace, increasing employee satisfaction
-        and retention.
-      </li>
-      <li>
-        <strong>Cultivate a Positive Workplace Culture:</strong> Wellbeing-focused
-        sessions create a work environment centred on growth, collaboration, and
-        shared success.
-      </li>
-      <li>
-        <strong>Elevate Energy Levels & Performance:</strong> Health education and
-        practical tips empower employees to maintain high energy levels, boosting
-        performance and reducing burnout.
+        <strong>Here are some ways I can support your team in achieving optimal health:</strong>
+        <ul>
+          <br>
+          <li>- 1:1 Health and Performance Coaching</li>
+          <li>- Remote / In-Person Coaching</li>
+          <li>- Wellbeing Day Interactive Intensives</li>
+          <li>- Corporate Wellness Group Programs</li>
+          <li>- Bespoke Consulting</li>
+        </ul>
       </li>
     </ul>
   </div>

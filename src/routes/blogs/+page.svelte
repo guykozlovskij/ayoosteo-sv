@@ -2,6 +2,24 @@
   <h1>Blog</h1>
 
   <div class="blog-intro">
+    <h2 class="blog-title">World Obesity Day</h2>
+    <p class="blog-preview">
+      Today is March 4th— World Obesity Day —a day of action calling for a
+      response to the obesity crisis. If you’re a morning news reader like me, 
+      I am sure you have seen headlines like “Most adults and a third of
+      children will be overweight or obese by 2050" or “Over 50% of adults
+      worldwide predicted to be obese or overweight by 2050.” These articles are
+      based on global data published in The Lancet journal. It is a
+      fascinating read, and I will link both the full article and a shorter
+      editorial below...
+    </p>
+    <p>
+      <a href="/blogs/blog13" class="blog-continue">Continue Reading</a>
+    </p>
+    <p class="blog-date">March, 2025</p>
+  </div>
+
+  <div class="blog-intro">
     <h2 class="blog-title">
       The Shorter Your Sleep, The Shorter Your Lifespan: How to Improve Your
       Sleep Hygiene
