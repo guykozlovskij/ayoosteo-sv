@@ -48,7 +48,8 @@
     <h1>Health Coaching Services</h1>
     <section id="services-parent">
       <div class="service">
-        <h2>75 - Minute Online Consultation - £99</h2>
+        <h2>75 - Minute Online Consultation</h2>
+        <!-- <h2>75 - Minute Online Consultation - £99</h2> -->
         <p>
           Ideal for individuals looking to make meaningful improvements in their
           overall health and well-being. This session provides comprehensive,
@@ -104,7 +105,8 @@
       </div>
 
       <div class="service">
-        <h2>45-Minute Follow-Up Sessions - £50</h2>
+        <h2>45-Minute Follow-Up Sessions</h2>
+        <!-- <h2>45-Minute Follow-Up Sessions - £50</h2> -->
         <p>What’s included:</p>
         <ul>
           <li>Progress Review: Discuss progress and evaluate any changes.</li>
