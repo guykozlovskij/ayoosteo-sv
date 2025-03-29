@@ -11,12 +11,19 @@
     <h1 id="ayo-title">Ayo Kozlovskij</h1>
     <h2>Osteopath, Naturopath and Health Coach</h2>
     <p>
-      Hi, my name is Ayo, and I help busy individuals prioritise their health
-      and prevent lifestyle diseases, even amidst a hectic schedule and the
-      overwhelming amount of conflicting information online. Through a holistic
-      and personalised approach, I guide my clients toward sustainable habits
-      that support long-term well-being. Let’s connect to explore how I can
-      support you on your health journey.
+      Hi, I’m Ayo, and I WANT to help you take charge of your health! With years
+      of clinical experience, I have seen firsthand how overwhelming health
+      advice can be—especially with all the conflicting information out there.
+      My mission? To simplify the process, cut through the noise, and guide you
+      toward sustainable habits that fit your busy life.
+      <br class="longer-br" />
+      I work with people struggling with migraines, chronic pain, low energy, or
+      a new health diagnosis. Maybe your blood test results weren’t great, or you
+      just want to feel healthier and more in control. Whatever your journey, I’m
+      here to support you every step of the way!
+      <br class="longer-br" />
+      I offer online consultations worldwide, so no matter where you are, we can
+      work together to improve your health.
     </p>
   </div>
 </section>
@@ -25,11 +32,12 @@
   <div id="service-1">
     <h2>Health Coaching</h2>
     <p>
-      Health coaching empowers you to make sustainable lifestyle changes,
-      focusing on areas like nutrition, exercise, sleep, stress management, and
-      overall wellness. It provides personalised guidance to help you achieve
-      your health goals and create lasting habits for a healthier, balanced
-      life.
+      Health coaching is all about empowering you to take control of your
+      well-being in a way that feels doable and sustainable. From nutrition and
+      exercise to sleep, stress, and overall wellness, it’s about finding what
+      works for you. With personalised guidance and support, you’ll build habits
+      that not only improve your health but actually stick—so you can feel your
+      best for the long run!
     </p>
     <div class="button-green-div services-button">
       <a class="button-green" href="/services/health-coaching">Learn More</a>
@@ -38,11 +46,11 @@
   <div id="service-2">
     <h2>Osteopathy and Medical Acupuncture</h2>
     <p>
-      As an osteopath, I take a holistic approach to treating musculoskeletal
-      issues. While back pain is a common concern, I also help with joint pain,
-      headaches, muscle aches, sports injuries, and more. I provide tailored
-      advice, health screenings, and referrals to support your overall
-      well-being.
+      As an osteopath, I take a whole-body approach to treating musculoskeletal
+      issues, from back and joint pain to headaches, muscle aches, and sports
+      injuries. I also provide tailored advice, health screenings, and referrals
+      to support overall well-being. <span style="color: white; text-decoration: underline;">However, I am currently not offering
+      osteopathy and medical acupuncture services at this time.</span>
     </p>
     <div class="button-green-div services-button">
       <a class="button-green" id="blue-button" href="/services/osteopathy"
@@ -290,5 +298,12 @@
     img {
       height: auto;
     }
+  }
+
+  .longer-br {
+    content: "";
+    margin: 2em;
+    display: block;
+    font-size: 24%;
   }
 </style>

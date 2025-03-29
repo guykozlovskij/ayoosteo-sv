@@ -14,37 +14,49 @@
     <h1>About Me</h1>
     <p>
       I graduated from the British College of Osteopathic Medicine with a
-      Masters in Osteopathy and a Diploma in Naturopathy.
+      Masters in Osteopathy and a Diploma in Naturopathy. With nearly a decade
+      of clinical experience, I have found my greatest joy in helping people
+      feel their best by guiding them toward sustainable health changes—without
+      the overwhelm!
     </p>
     <p>
-      As an osteopath, naturopath and health coach, I adopt a patient-centered approach,
-      working collaboratively with you to recover from pain or injury, achieve
-      optimal health, and enhance your overall quality of life. My practice
-      often integrates osteopathic and naturopathic principles with tailored
-      health coaching, offering guidance on dietary changes, exercise,
-      ergonomics, stress management, and wellness strategies. Along the way, I
-      strive to help you understand the root of the problem and empower you to
-      make sustainable lifestyle changes that promote long-term well-being.
+      To expand my ability to support patients, I trained with the College of
+      Naturopathic Medicine to become a certified Health Coach. As a
+      whole-health professional, I specialise in lifestyle and behaviour change,
+      empowering clients to take charge of their well-being. I believe in a
+      patient-centred approach that respects each individual's unique
+      experience, combining osteopathic and naturopathic principles with health
+      coaching strategies.
     </p>
     <p>
-      I am currently completing a Health Coach Diploma with the College of
-      Naturopathic Medicine, further deepening my ability to support patients in
-      achieving their health and wellness goals.
+      New patients often come to me feeling unsure of where to start in
+      addressing their health concerns. My role is to help them navigate this
+      journey by identifying priorities, setting realistic goals, and clarifying
+      the steps needed to create meaningful, lasting progress. Whether it’s
+      movement, nutrition, sleep, stress management, or overall wellness, my
+      focus is on equipping my patients with the tools and confidence to reclaim
+      control of their health—and, ultimately, their lives.
     </p>
     <p>
-      I have experience working with a diverse range of patients, from newborns
-      and adolescents to adults and geriatric individuals.
+      A key part of my approach is recognising that each person’s path to
+      well-being is different. I take a broad perspective, considering a range
+      of lifestyle factors that can either support or undermine health. My aim
+      is to serve as a non-judgmental ally, providing guidance, motivation, and
+      education to help clients break through resistance and make sustainable
+      choices that align with their whole-health potential.
     </p>
     <p>
-      Additionally, I hold qualifications in Medical Acupuncture, having trained
-      with the British Medical Acupuncture Society. My professional experience
-      includes roles as an osteopathic technique tutor and practice educator at
-      the British College of Osteopathic Medicine and the University College of
-      Osteopathy in London.
+      I have experience working with individuals of all ages, from newborns to
+      seniors, tailoring my approach to suit their unique needs. In addition to
+      my osteopathic practice, I hold a diploma in Medical Acupuncture and have
+      taught at leading colleges in London.
     </p>
     <p>
-      Outside of work, I enjoy playing badminton and staying active through yoga
-      and bodyweight exercises.
+      If you're looking for a holistic and supportive approach to your health,
+      get in touch!
+    </p>
+    <p>
+      <a href="#contact-placeholder">Contact me</a> here or view my sevices <a href="/services/health-coaching">here</a>.
     </p>
   </section>
 </section>
@@ -88,11 +100,14 @@
     alt="IO membership logo />"
   />
 </div>
+<div id="contact-placeholder"></div>
 
 <style lang="scss">
   @use "../../styles/base";
-
   #about-page {
+    a{
+      color: base.$ayoosteoblue;
+    }
     display: flex;
     justify-content: center;
     flex-direction: row;

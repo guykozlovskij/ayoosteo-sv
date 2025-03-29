@@ -3,97 +3,78 @@
   <div class="services-text">
     <p style="font-style: italic">"The greatest wealth is health." – Virgil</p>
     <p>
-      Health is a precious asset that we often don't recognize or appreciate
-      until we lose it. In today’s fast-paced world, however, health frequently
-      takes a backseat to work, responsibilities, and overwhelming schedules.
-      Instead of waiting until your body gives in, there is so much you can do
-      to achieve true well-being. It's not just about diet and exercise—it’s
-      about creating sustainable routines that fit seamlessly into your daily
-      life. The body and mind have an incredible ability to thrive when
-      supported by the right habits and environment
+      I work with clients from all around the globe, providing personalised
+      guidance that fits your unique needs and lifestyle.
     </p>
     <p>
-      With nearly a decade of experience as an osteopath, I have seen firsthand
-      the impact of neglecting health on my patients’ long-term well-being.
-      Conditions like arthritis, osteoporosis, type 2 diabetes, heart disease,
-      high blood pressure, high cholesterol, liver disease, depression, and
-      anxiety are often the result of years of overlooked health. Instead of
-      simply addressing symptoms, <a
-        style="color: rgb(0, 105, 69)"
-        href="/blogs/blog11"
-        target="_blank">health coaching</a
-      > enables us to take a holistic approach — looking at the person as a whole.
+      If you are ready to take charge of your health—without the overwhelm—then
+      you are in the right place.
     </p>
     <p>
-      My goal is to equip you with practical, time-efficient strategies to help
-      you manage stress, improve mobility, eat better, <a
-        style="color: rgb(0, 105, 69)"
-        href="/blogs/blog12"
-        target="_blank">sleep</a
-      > better, and build a healthier lifestyle. Whatever your challenges are, we
-      will find effortless, personalised changes that fit into your life—without
-      adding more to your plate.
+      This is your space to feel heard, supported, and empowered. No judgment.
+      No one-size-fits-all plans. Just real, sustainable changes that fit YOUR
+      life.
     </p>
     <p>
-      Together, we will identify realistic changes that work for your schedule
-      and create a step-by-step plan tailored to your needs. Whether you
-      struggle with chronic pain, low energy, or simply finding time for
-      self-care, I’m here to help you regain control of your health.
+      As a health coach, I don’t believe in quick fixes or generic advice.
+      Instead, we’ll work together to build habits that support your whole
+      health—whether that means managing a condition, improving energy, reducing
+      pain, or just feeling like yourself again.
     </p>
     <p>
-      If you’re ready to prioritise yourself and make lasting changes—without
-      the overwhelm—let’s get started. Get in touch today!
+      You already have the ability to make positive changes. My job is to guide,
+      support, and help you break through resistance so you can create a
+      lifestyle that works for you, not against you.
     </p>
     <br />
     <h1>Health Coaching Services</h1>
     <section id="services-parent">
       <div class="service">
-        <h2>75 - Minute Online Consultation</h2>
-        <!-- <h2>75 - Minute Online Consultation - £99</h2> -->
+        <h2>90-Minute Online Consultation - £99</h2>
         <p>
-          Ideal for individuals looking to make meaningful improvements in their
-          overall health and well-being. This session provides comprehensive,
-          personalised care to address health concerns and help you take
-          actionable steps toward lasting solutions.**
+          A deep dive into your health and lifestyle to create a personalised,
+          sustainable plan—tailored to you.
         </p>
         <p>What’s included:</p>
         <ul>
           <li>
-            <strong>Pre-session:</strong> Complete a 4-day food diary and a detailed
-            questionnaire to provide insights into your current health and lifestyle.
+            <strong>Pre-session:</strong> Complete a 4-day food diary and health
+            questionnaire to gain insights into your current habits and concerns.
           </li>
-          <li><strong>Initial Consultation:</strong></li>
+          <li><strong>Comprehensive Consultation:</strong></li>
           <ul>
             <li>
-              A thorough review of your health history, symptoms, and lifestyle
+              A detailed review of your health history, symptoms, and lifestyle
               factors.
             </li>
             <li>
-              Identification of key health challenges, potential triggers, and
-              connections between various issues.
+              Identifying key challenges, potential triggers, and patterns
+              affecting your well-being.
             </li>
             <li>
-              Tailored recommendations for immediate and sustainable
-              improvements.
+              Practical, personalised recommendations you can start implementing
+              right away.
             </li>
           </ul>
-          <li><strong>Tailored Plan:</strong></li>
+          <li><strong>Your Personalised Plan:</strong></li>
           <ul>
             <li>
-              A personalised, step-by-step action plan, including diet,
-              lifestyle, and habit changes to enhance your overall health.
+              A step-by-step action plan covering diet, lifestyle, and habit
+              changes.
             </li>
             <li>
-              Delivered within 24 hours, with clear guidance on next steps.
+              Delivered within 24 hours, with clear, manageable next steps.
+            </li>
+          </ul>
+          <li><strong>Ongoing Support:</strong></li>
+          <ul>
+            <li>
+              Feel free to reach out between sessions with any questions or
+              concerns. I am here to provide ongoing support, so you stay on
+              track and navigate any challenges as they come up.
             </li>
           </ul>
         </ul>
-        <p>
-          This session offers a deep, tailored analysis and personalised plan,
-          making it ideal for individuals with complex health needs. It provides
-          maximum value for those who require more time and expertise to achieve
-          meaningful, lasting improvements in their health and well-being.
-        </p>
         <div id="contact-details">
           <div class="button-green-div">
             <a class="button-green" href="mailto: ayoosteo@gmail.com">
@@ -105,14 +86,34 @@
       </div>
 
       <div class="service">
-        <h2>45-Minute Follow-Up Sessions</h2>
-        <!-- <h2>45-Minute Follow-Up Sessions - £50</h2> -->
+        <h2>45-Minute Online Follow-Up Sessions - £65</h2>
         <p>What’s included:</p>
         <ul>
-          <li>Progress Review: Discuss progress and evaluate any changes.</li>
-          <li>Ongoing Recommendations: Guidance on the next steps.</li>
-          <li>Updated Plan: A revised plan sent to you within 24 hours.</li>
+          <li><strong>Progress Check-In:</strong></li>
+          <ul>
+            <li>
+              Review your progress, challenges, and any changes since our last session.
+            </li>
+          </ul>
+          <li><strong>Ongoing Guidance & Support:</strong></li>
+          <ul>
+            <li>
+              Adjustments and personalised recommendations to help you stay on course.
+            </li>
+            <li>
+              Feel free to reach out between sessions with any questions or concerns—I am here to support you every step of the way.
+            </li>
+          </ul>
+          <li><strong>Updated Plan:</strong></li>
+          <ul>
+            <li>
+              A refined action plan sent to you within 24 hours to support your next steps.
+            </li>
+          </ul>
         </ul>
+        <p>
+          These sessions provide the accountability and fine-tuning you need to keep moving forward—at your own pace.
+        </p>
         <div id="contact-details">
           <div class="button-green-div">
             <a class="button-green" href="mailto: ayoosteo@gmail.com">
@@ -123,11 +124,12 @@
         </div>
       </div>
     </section>
-    <h1>Ongoing Support</h1>
+    <h1>Flexible Packages & Ongoing Support</h1>
     <p>
-      You are welcome to message me in between sessions with any questions or
-      concerns. This ensures you have ongoing guidance and support to help you
-      stay on track and address any issues as they arise.
+      Lasting health changes take time, and ongoing support makes all the
+      difference. If you choose to continue after your first session, I offer
+      flexible packages at better rates—ensuring you get the guidance,
+      accountability, and personalised support you need to stay on track.
     </p>
   </div>
 </section>

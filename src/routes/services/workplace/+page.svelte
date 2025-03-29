@@ -2,32 +2,37 @@
   <h1 class="service-title">Workplace Wellbeing Interactive Sessions</h1>
   <div class="services-text">
     <p>
-      Hire me to deliver bespoke health coaching programs, give impactful talks,
-      and work closely with your team to help them feel their best.
+      Bring me in to deliver bespoke health coaching programs, engaging talks,
+      and hands-on support to help your team feel and perform at their best.
     </p>
     <p>
-      Studies have shown that businesses that focus on employee engagement see a
-      20% increase in productivity and lower absenteeism.
+      Studies show that companies that prioritise employee well-being see a 20%
+      boost in productivity and reduced absenteeism—because a healthier team is
+      a more effective team.
     </p>
     <h2>A Tailored Approach:</h2>
     <ul>
       <li>
-        <strong>Book a 'Discovery Meeting'</strong> – A session where I can get
-        to know your company, your team, and your specific needs. Based on this,
-        I will create a tailored program that addresses your unique requirements.
+        <strong>Book a 'Discovery Meeting'</strong> - where I’ll learn about your
+        company, team, and specific needs. From there, I will l design a customised
+        program to support your workforce in achieving optimal health.
       </li>
       <li>
-        <strong>Here are some ways I can support your team in achieving optimal health:</strong>
+        <strong>Ways I Can Support Your Team:</strong>
         <ul>
-          <br>
-          <li>- 1:1 Health and Performance Coaching</li>
-          <li>- Remote / In-Person Coaching</li>
-          <li>- Wellbeing Day Interactive Intensives</li>
-          <li>- Corporate Wellness Group Programs</li>
-          <li>- Bespoke Consulting</li>
+          <br />
+          <li>1:1 Health and Performance Coaching</li>
+          <li>Remote or In-Person Coaching</li>
+          <li>Workstation Assessments</li>
+          <li>Wellbeing Day Interactive Intensives</li>
+          <li>Corporate Wellness Group Programs</li>
+          <li>Bespoke Consulting</li>
         </ul>
       </li>
     </ul>
+    <p>
+      Let’s create a healthier, happier, and more productive workplace—together.
+    </p>
   </div>
 </section>
 
