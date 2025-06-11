@@ -7,7 +7,7 @@
       guidance that fits your unique needs and lifestyle.
     </p>
     <p>
-      If you are ready to take charge of your health—without the overwhelm—then
+      If you are ready to take charge of your health without the overwhelm, then
       you are in the right place.
     </p>
     <p>
@@ -18,7 +18,7 @@
     <p>
       As a health coach, I don’t believe in quick fixes or generic advice.
       Instead, we’ll work together to build habits that support your whole
-      health—whether that means managing a condition, improving energy, reducing
+      health — whether that means managing a condition, improving energy, reducing
       pain, or just feeling like yourself again.
     </p>
     <p>
@@ -33,7 +33,7 @@
         <h2>90-Minute Online Consultation - £99</h2>
         <p>
           A deep dive into your health and lifestyle to create a personalised,
-          sustainable plan—tailored to you.
+          sustainable plan tailored to you.
         </p>
         <p>What’s included:</p>
         <ul>
@@ -101,7 +101,7 @@
               Adjustments and personalised recommendations to help you stay on course.
             </li>
             <li>
-              Feel free to reach out between sessions with any questions or concerns—I am here to support you every step of the way.
+              Feel free to reach out between sessions with any questions or concerns. I am here to support you every step of the way.
             </li>
           </ul>
           <li><strong>Updated Plan:</strong></li>
@@ -112,7 +112,7 @@
           </ul>
         </ul>
         <p>
-          These sessions provide the accountability and fine-tuning you need to keep moving forward—at your own pace.
+          These sessions provide the accountability and fine-tuning you need to keep moving forward — at your own pace.
         </p>
         <div id="contact-details">
           <div class="button-green-div">
@@ -128,8 +128,7 @@
     <p>
       Lasting health changes take time, and ongoing support makes all the
       difference. If you choose to continue after your first session, I offer
-      flexible packages at better rates—ensuring you get the guidance,
-      accountability, and personalised support you need to stay on track.
+      flexible packages at better rates.
     </p>
   </div>
 </section>

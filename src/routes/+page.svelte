@@ -1,25 +1,24 @@
 <script>
   import new1 from "../lib/images/misc/new1.png?enhanced";
-  import gocRegistration from "../lib/images/certification/AyoO9396.jpg?enhanced";
+  import hcCert from "..//lib/images/certification/health-coach-cert.jpg?enhanced";
   import goc from "..//lib/images/certification/AyoO9396.jpg?enhanced";
-  import ioMembership from "../lib/images/certification/iO-Member-logo-Digital.jpg?enhanced";
+  // import ioMembership from "../lib/images/certification/iO-Member-logo-Digital.jpg?enhanced";
 </script>
 
 <section id="home-intro-section">
   <enhanced:img src={new1} alt="ayo profile" class="home-ayo-profile-image" />
   <div class="home-intro-text">
     <h1 id="ayo-title">Ayo Kozlovskij</h1>
-    <h2>Osteopath, Naturopath and Health Coach</h2>
+    <h2>Osteopath, Certified Health Coach and Naturopath</h2>
     <p>
       Hi, I’m Ayo, and I WANT to help you take charge of your health! With years
       of clinical experience, I have seen firsthand how overwhelming health
-      advice can be—especially with all the conflicting information out there.
-      My mission? To simplify the process, cut through the noise, and guide you
-      toward sustainable habits that fit your busy life.
+      advice can be. My mission? To simplify the process, cut through the noise,
+      and guide you toward sustainable habits that fit your busy life.
       <br class="longer-br" />
       I work with people struggling with migraines, chronic pain, low energy, or
       a new health diagnosis. Maybe your blood test results weren’t great, or you
-      just want to feel healthier and more in control. Whatever your journey, I’m
+      just want to feel healthier and more in control. Whatever your journey, I am
       here to support you every step of the way!
       <br class="longer-br" />
       I offer online consultations worldwide, so no matter where you are, we can
@@ -36,7 +35,7 @@
       well-being in a way that feels doable and sustainable. From nutrition and
       exercise to sleep, stress, and overall wellness, it’s about finding what
       works for you. With personalised guidance and support, you’ll build habits
-      that not only improve your health but actually stick—so you can feel your
+      that not only improve your health but actually stick, so you can feel your
       best for the long run!
     </p>
     <div class="button-green-div services-button">
@@ -49,8 +48,11 @@
       As an osteopath, I take a whole-body approach to treating musculoskeletal
       issues, from back and joint pain to headaches, muscle aches, and sports
       injuries. I also provide tailored advice, health screenings, and referrals
-      to support overall well-being. <span style="color: white; text-decoration: underline;">However, I am currently not offering
-      osteopathy and medical acupuncture services at this time.</span>
+      to support overall well-being. <span
+        style="color: white; text-decoration: underline;"
+        >However, I am currently not offering osteopathy and medical acupuncture
+        services at this time.</span
+      >
     </p>
     <div class="button-green-div services-button">
       <a class="button-green" id="blue-button" href="/services/osteopathy"
@@ -71,7 +73,7 @@
           class="membership-number">9396</span
         >
       </li>
-      <li>
+      <!-- <li>
         Institute of Osteopathy – Membership number <span
           class="membership-number">107031</span
         >
@@ -80,18 +82,15 @@
         British Medical Acupuncture Society – Membership number <span
           class="membership-number">37243</span
         >
-      </li>
+      </li> -->
     </ul>
   </div>
 </section>
 
 <div id="memberships">
   <enhanced:img src={goc} alt="ayo GOC registration" />
-  <enhanced:img
-    id="io-membership"
-    src={ioMembership}
-    alt="IO membership logo />"
-  />
+  <!-- <enhanced:img id="io-membership" src={ioMembership} alt="IO membership logo />"/> -->
+  <enhanced:img id="hc-cert" src={hcCert} alt="health coach certification />"/>
 </div>
 
 <style lang="scss">

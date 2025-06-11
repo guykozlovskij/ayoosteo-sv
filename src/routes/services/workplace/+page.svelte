@@ -7,7 +7,7 @@
     </p>
     <p>
       Studies show that companies that prioritise employee well-being see a 20%
-      boost in productivity and reduced absenteeism—because a healthier team is
+      boost in productivity and reduced absenteeism, because a healthier team is
       a more effective team.
     </p>
     <h2>A Tailored Approach:</h2>
@@ -31,7 +31,7 @@
       </li>
     </ul>
     <p>
-      Let’s create a healthier, happier, and more productive workplace—together.
+      Let’s create a healthier, happier, and more productive workplace — together.
     </p>
   </div>
 </section>
