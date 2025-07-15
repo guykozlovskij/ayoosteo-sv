@@ -4,6 +4,12 @@
   import ioMembership from "../../lib/images/certification/iO-Member-logo-Digital.jpg?enhanced";
 </script>
 
+<svelte:head>
+  <title>About Ayo Kozlovskij | Health Coach & Osteopath | Ayoosteo</title>
+  <meta name="description" content="Learn more about Ayo Kozlovskij, a certified health coach and osteopath with a passion for helping people take charge of their health through simple, sustainable habits." />
+</svelte:head>
+
+
 <section id="about-page">
   <div id="about-profile-image">
     <enhanced:img src={new2} alt="ayo profile" />
@@ -49,7 +55,7 @@
       I have experience working with individuals of all ages, from newborns to
       seniors, tailoring my approach to suit their unique needs. In addition to
       my osteopathic practice, I hold a diploma in Medical Acupuncture and have
-      taught at leading colleges in London.
+      taught at leading colleges in London. I currently tutor at the College of Naturopathic Medicine.
     </p>
     <p>
       If you're looking for a holistic and supportive approach to your health,

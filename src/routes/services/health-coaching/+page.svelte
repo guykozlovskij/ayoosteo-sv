@@ -1,3 +1,9 @@
+<svelte:head>
+  <title>Online Health Coaching | Support for Chronic Illness & Diabetes | Ayoosteo</title>
+  <meta name="description" content="Personalised one-on-one health coaching to help you manage chronic illness, increase energy, improve blood test results, and create habits that last." />
+</svelte:head>
+
+
 <section class="service-display-page">
   <h1 class="service-title">Health Coaching</h1>
   <div class="services-text">

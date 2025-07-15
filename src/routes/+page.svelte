@@ -5,27 +5,32 @@
   import ioMembership from "../lib/images/certification/iO-Member-logo-Digital.jpg?enhanced";
 </script>
 
-<section id="home-intro-section">
+<svelte:head>
+  <title>Certified Health Coach & Osteopath in London | Ayoosteo</title>
+  <meta name="description" content="Ayo Kozlovskij is a London-based certified health coach and osteopath supporting clients with chronic illness, diabetes, migraines, low energy, and new health diagnoses. Online consultations available." />
+</svelte:head>
+
+<section id="home-intro-section" aria-labelledby="ayo-title">
   <enhanced:img src={new1} alt="ayo profile" class="home-ayo-profile-image" />
-  <div class="home-intro-text">
+  <header class="home-intro-text">
     <h1 id="ayo-title">Ayo Kozlovskij</h1>
-    <h2>Osteopath, Naturopath and Health Coach</h2>
+    <h2>Certified Health Coach and Osteopath</h2>
     <p>
-      Hi, I’m Ayo, and I WANT to help you take charge of your health! With years
+      Hi, I’m Ayo, and I want to help you take charge of your health! With years
       of clinical experience, I have seen firsthand how overwhelming health
       advice can be—especially with all the conflicting information out there.
       My mission? To simplify the process, cut through the noise, and guide you
       toward sustainable habits that fit your busy life.
       <br class="longer-br" />
-      I work with people struggling with migraines, chronic pain, low energy, or
-      a new health diagnosis. Maybe your blood test results weren’t great, or you
-      just want to feel healthier and more in control. Whatever your journey, I’m
-      here to support you every step of the way!
+      I work with people struggling with chronic illness, migraines, diabetes, low
+      energy, or a new health diagnosis. Maybe your blood test results weren’t great,
+      or you just want to feel healthier and more in control. Whatever your journey,
+      I’m here to support you every step of the way!
       <br class="longer-br" />
       I offer online consultations worldwide, so no matter where you are, we can
       work together to improve your health.
     </p>
-  </div>
+  </header>
 </section>
 
 <section id="service-definitions">
@@ -49,8 +54,11 @@
       As an osteopath, I take a whole-body approach to treating musculoskeletal
       issues, from back and joint pain to headaches, muscle aches, and sports
       injuries. I also provide tailored advice, health screenings, and referrals
-      to support overall well-being. <span style="color: white; text-decoration: underline;">However, I am currently not offering
-      osteopathy and medical acupuncture services at this time.</span>
+      to support overall well-being. <span
+        style="color: white; text-decoration: underline;"
+        >However, I am currently not offering osteopathy and medical acupuncture
+        services at this time.</span
+      >
     </p>
     <div class="button-green-div services-button">
       <a class="button-green" id="blue-button" href="/services/osteopathy"

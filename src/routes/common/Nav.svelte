@@ -25,7 +25,7 @@
   </ul>
   <div id="hamburger-menu">
     <input id="menu__toggle" type="checkbox" />
-    <label class="menu__btn" for="menu__toggle">
+    <label class="menu__btn" for="menu__toggle" aria-label="Toggle menu">
       <span></span>
     </label>
     <ul class="menu__box">

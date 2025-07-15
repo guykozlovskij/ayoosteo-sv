@@ -1,3 +1,9 @@
+<svelte:head>
+  <title>Workplace Wellbeing Workshops | Employee Health Sessions | Ayoosteo</title>
+  <meta name="description" content="Interactive wellbeing sessions for teams, designed to support stress management, productivity, and overall employee health in a workplace setting." />
+</svelte:head>
+
+
 <section class="service-display-page">
   <h1 class="service-title">Workplace Wellbeing Interactive Sessions</h1>
   <div class="services-text">

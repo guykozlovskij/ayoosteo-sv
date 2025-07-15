@@ -1,3 +1,9 @@
+<svelte:head>
+  <title>Health Coaching Blog | Wellness Tips & Insights | Ayoosteo</title>
+  <meta name="description" content="Read articles by Ayo Kozlovskij on holistic health, sustainable habits, chronic illness support, and practical wellness strategies to feel more in control of your health." />
+</svelte:head>
+
+
 <section id="blog-section">
   <h1>Blog</h1>
 

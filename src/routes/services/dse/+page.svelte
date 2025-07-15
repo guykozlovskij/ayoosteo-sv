@@ -2,6 +2,12 @@
   import workstation from "../../../lib/images/misc/computer-infographic.jpeg";
 </script>
 
+<svelte:head>
+  <title>Workstation & DSE Assessments | Ergonomic Health | Ayoosteo</title>
+  <meta name="description" content="In-depth workstation assessments to improve posture, reduce discomfort, and comply with DSE regulations for healthier working environments." />
+</svelte:head>
+
+
 <section class="service-display-page">
   <h1 class="service-title">Workstation Assessment</h1>
   <h2>

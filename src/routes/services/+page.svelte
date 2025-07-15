@@ -2,6 +2,11 @@
   import ayoReception from "../../lib/images/misc/ayo_office_img_6397.webp?enhanced";
 </script>
 
+<svelte:head>
+  <title>Health & Wellness Services | Coaching, Workplace Wellness & More | Ayoosteo</title>
+  <meta name="description" content="Explore the range of health services offered by Ayo Kozlovskij, including one-on-one health coaching, osteopathy, workplace wellness sessions, and workstation assessments." />
+</svelte:head>
+
 <div id="services-page">
   <h1>Services</h1>
   <section id="service-list-section">

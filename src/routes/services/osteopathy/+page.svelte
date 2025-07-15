@@ -1,3 +1,9 @@
+<svelte:head>
+  <title>Osteopathy & Medical Acupuncture | Pain Relief & Mobility | Ayoosteo</title>
+  <meta name="description" content="Hands-on osteopathy and medical acupuncture to treat pain, improve movement, and support recovery from musculoskeletal conditions." />
+</svelte:head>
+
+
 <section class="service-display-page">
   <h1 class="service-title">Osteopathy and Medical Acupuncture</h1>
   <h2 id="disclaimer">
